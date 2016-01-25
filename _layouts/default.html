@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="http://pother.ca/CssBase/css/base.css">
+  <link rel="stylesheet" href="http://pother.ca/CssBase/css/ribbon.css">
+  <link rel="stylesheet" href="http://pother.ca/CssBase/css/created-by-potherca.css">
+  <style>
+      nav {
+          position: fixed;
+          left: 0;
+          top: 0;
+          margin: 1em;
+      }
+      footer {
+          margin-top: 2em;
+          box-shadow: 0em 0 0.1em rgb(73%, 8%, 8%);
+      }
+  </style>
+
+  <h1>{{ page.title }}</h1>
+  <div class="container">
+    {{ content }}
+  </div>
+  <div class="banner banner-right banner-fixed">
+    <a href="{{ site.github.repository_url }}/tree/gh-pages/{{ page.path }}">
+      Visit on Github
+    </a>
+  </div>
+
+  {%if page.path != "README.md" %}
+  <nav>
+    <a href="/{{ site.github.project_title }}">
+      HOME
+    </a>
+</nav>
+  {%else%}
+  <h2>Available Pages:</h2>
+  <ul>
+    {% for currentPage in site.pages %}
+      {%if currentPage.path != "README.md" and currentPage.path != page.path %}
+        <li>
+          <a href="/{{ site.github.project_title }}{{ currentPage.url }}">
+            {{ currentPage.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {%endif%}
+
+<footer class="created-by">
+  <p>
+    Source of this page is available on <a href="{{ site.github.repository_url }}">Github</a> under a <a rel="license" href="{{ site.github.url }}/LICENSE/"
+    >Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> &mdash; Created by <a href="http://pother.ca/" class="potherca">Potherca</a>
+  </p>
+</footer>
+</html>
