@@ -1,10 +1,9 @@
 ---
 permalink: /full-experience-report/
-title: Communicating testing during software development
+title: Full experience report
 ---
 
 # Communicating testing during software development.
-
 
 ## The clear blue water
 
