@@ -37,11 +37,10 @@ Useful quotes from #DEWT6: "Find the stakeholders that care, make it somebody el
 
 ## 04 - 2015-01-30
 
-Start by asking "Why?" #dailyDEWT
-
-@simonsinek's TED talk "How great leaders inspire action" mentioned at #DEWT6
+The two TED talks by @simonsinek about great leaders, mentioned at #DEWT6 #dailyDEWT
 
 https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
+https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe
 
 ---
 
