@@ -102,3 +102,22 @@ All my #dailyDEWT tweets for #DEWT6 can be found at http://pother.ca/DEWT6/daily
 
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<style>
+
+blockquote.twitter-tweet {
+  padding: 1em;
+  border: #ddd 1px solid;
+  border-top-color: #eee;
+  border-bottom-color: #bbb;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  color: #000;
+}
+ 
+blockquote.twitter-tweet p {
+}
+ 
+blockquote.twitter-tweet p a[href^="https://twitter.com"] {
+  color: #55ACEE;
+}
+</style>
