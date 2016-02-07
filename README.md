@@ -10,7 +10,7 @@ This repository contains my proposal for, and notes from the [DEWT6 Peer Confere
 
 For up to two weeks after the DEWT6 Peer Conference, I have a daily tweet from my notes.
 
-To see them all, see the [#dailyDEWT hashtag on Twitter](https://twitter.com/search?f=tweets&q=%23dailyDEWT).
+To see them all, see the [#dailyDEWT hashtag on Twitter](https://twitter.com/search?f=tweets&q=%23dailyDEWT) or [the #dailyDEWT page here](http://pother.ca/DEWT6/daily-tweet/).
 
 ## Introduction
 
@@ -38,4 +38,6 @@ The theme of the 2016 peer conference is **Communicating testing during software
 
 > During DEWT6 we would like you to share with us your experiences in communicating about software testing while it is being developed. With whom did you share your test ideas and test results? How did you share it? How was your feedback received? Did it turn out the way you expected? Was it useful?
 
-In my personal opinion, programmers, tester and others involved are all _developers_. With their combined efforts, a group of "developers" create a product or service. The only major difference between different developers is an area of expertise and thus their viewpoint.
+In my personal opinion, programmers, tester and others involved are all _developers_. With their combined efforts, a group of "developers" create a product or service. The only major difference between different developers is an area of expertise and thus their viewpoint. 
+
+It was very interesting to see all of these different viewpoints engage in a discussion during the conference.
