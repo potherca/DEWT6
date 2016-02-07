@@ -10,7 +10,7 @@ This repository contains my proposal for, and notes from the [DEWT6 Peer Confere
 
 For up to two weeks after the DEWT6 Peer Conference, I have a daily tweet from my notes.
 
-To see them all, see the [#dailyDEWT hashtag on Twitter](https://twitter.com/search?f=tweets&q=%23dailyDEWT) or [the #dailyDEWT page here](http://pother.ca/DEWT6/daily-tweet/).
+To see them all, see the [#dailyDEWT hashtag on Twitter](https://twitter.com/search?f=tweets&q=%23dailyDEWT) or [the #dailyDEWT page here](/DEWT6/daily-tweet/).
 
 ## Introduction
 
