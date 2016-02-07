@@ -34,8 +34,6 @@ title: "All my #dailyDEWT Tweets for DEWT6"
 <a href="https://t.co/XEtfkE0QwO">https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe</a></p>
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/693345170339844096">January 30, 2016</a></blockquote>
 
----
-
 ## 05
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Uncertainty that matters&quot; mentioned at <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>, from David Hillson&#39;s article &quot;When is a Risk not a Risk&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a>
@@ -43,14 +41,10 @@ title: "All my #dailyDEWT Tweets for DEWT6"
 <a href="https://t.co/HvEPpdiefJ">http://www.who.int/management/general/risk/WhenRiskNotRisk.pdf</a></p>
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/693707540245389312">January 31, 2016</a></blockquote>
 
----
-
 ## 06
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;There is no such thing as complete coverage but if you control the risk you are also adding value.&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/694069931168698368">February 1, 2016</a></blockquote>
-
----
 
 ## 07
 
@@ -58,14 +52,10 @@ title: "All my #dailyDEWT Tweets for DEWT6"
 <br/><br/>
 <a href="https://t.co/gcFiZmeT9E">http://www.reinventingorganizations.com/pay-what-feels-right.html</a></p>&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/694432331315179520">February 2, 2016</a></blockquote>
 
----
-
 ## 08
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;Ask someone to write things down in order to get them thinking about the subject at hand.&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/694794728496353280">February 3, 2016</a></blockquote>
-
----
 
 ## 09
 
@@ -74,15 +64,10 @@ title: "All my #dailyDEWT Tweets for DEWT6"
 <a href="https://t.co/5Dn6WO0MtU">http://secretsofconsulting.blogspot.nl/2016/01/how-culture-brokers-make-software.html</a></p>
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/695157108451512320">February 4, 2016</a></blockquote>
 
-
----
-
 ## 10
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;So how do we turn a risk into value? By testing and turning defects into acceptance requirements.&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/695519516583927808">February 5, 2016</a></blockquote>
-
----
 
 ## 11
 
@@ -92,24 +77,17 @@ title: "All my #dailyDEWT Tweets for DEWT6"
 
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/695881955313893377">February 6, 2016</a></blockquote>
 
----
-
 ## 12
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;If you don&#39;t know what you are looking for, what would help you be more confident?&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
 &mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/696244285583269888">February 7, 2016</a></blockquote>
 
----
-
 ## 13 - 2015-02-08
-
----
-
-## 14 - 2015-02-09
 
 All my #dailyDEWT tweets for #DEWT6 can be found at http://pother.ca/DEWT6/daily-tweet/
 
 ---
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <style>
 
