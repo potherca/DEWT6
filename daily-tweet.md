@@ -36,59 +36,68 @@ title: "All my #dailyDEWT Tweets for DEWT6"
 
 ---
 
-## 05 - 2015-01-31
+## 05
 
-David Hillson's quote "The simplest definition of risk is “uncertainty that matters”" mentioned at #DEWT6 is from the article "When is a Risk not a Risk?" #dailyDEWT
-
-http://www.who.int/management/general/risk/WhenRiskNotRisk.pdf
-
----
-
-## 06 - 2015-02-01
-
-Useful quotes from #DEWT6: "There is no such thing as complete coverage but if you control the risk you are also adding value." #dailyDEWT
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Uncertainty that matters&quot; mentioned at <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>, from David Hillson&#39;s article &quot;When is a Risk not a Risk&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a>
+<br/><br/>
+<a href="https://t.co/HvEPpdiefJ">http://www.who.int/management/general/risk/WhenRiskNotRisk.pdf</a></p>
+&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/693707540245389312">January 31, 2016</a></blockquote>
 
 ---
 
-## 07 - 2015-02-02
+## 06
 
-Pay what feels right for @fred_laloux's book "Reinventing organizations" mentioned at #DEWT6 #dailyDEWT
-
-http://www.reinventingorganizations.com/pay-what-feels-right.html
-
----
-
-## 08 - 2015-02-03
-
-Useful quotes from #DEWT6: "Ask someone to write things down in order to get them thinking about the subject at hand." #dailyDEWT
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;There is no such thing as complete coverage but if you control the risk you are also adding value.&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
+&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/694069931168698368">February 1, 2016</a></blockquote>
 
 ---
 
-## 09 - 2015-02-04
+## 07
 
-.@JerryWeinberg's blog post about "How Culture Brokers Make Software Successful" mentioned at #DEWT6 #dailyDEWT
-
-http://secretsofconsulting.blogspot.nl/2016/01/how-culture-brokers-make-software.html
-
----
-
-## 10 - 2015-02-05
-
-Useful quotes from #DEWT6: "So how do we turn a risk into value? By testing and turning defects into acceptance requirements." #dailyDEWT
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pay what feels right for <a href="https://twitter.com/fred_laloux">@fred_laloux</a>&#39;s book &quot;Reinventing organizations&quot; mentioned at <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a> <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a>
+<br/><br/>
+<a href="https://t.co/gcFiZmeT9E">http://www.reinventingorganizations.com/pay-what-feels-right.html</a></p>&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/694432331315179520">February 2, 2016</a></blockquote>
 
 ---
 
-## 11 - 2015-02-06
+## 08
 
-.@vineetnayar has a talk in regards to his book "Employees First, Customers Second" mentioned at #DEWT6 #dailyDEWT
-
-https://www.youtube.com/watch?v=cCdu67s_C5E
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;Ask someone to write things down in order to get them thinking about the subject at hand.&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
+&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/694794728496353280">February 3, 2016</a></blockquote>
 
 ---
 
-## 12 - 2015-02-07
+## 09
 
-Useful quotes from #DEWT6: "If you don't know what you are looking for, what would help you be more confident?" #dailyDEWT
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/JerryWeinberg">@JerryWeinberg</a>&#39;s blog post about &quot;How Culture Brokers Make Software Successful&quot; mentioned at <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a> <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a>
+<br/><br/>
+<a href="https://t.co/5Dn6WO0MtU">http://secretsofconsulting.blogspot.nl/2016/01/how-culture-brokers-make-software.html</a></p>
+&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/695157108451512320">February 4, 2016</a></blockquote>
+
+
+---
+
+## 10
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;So how do we turn a risk into value? By testing and turning defects into acceptance requirements.&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
+&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/695519516583927808">February 5, 2016</a></blockquote>
+
+---
+
+## 11
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/vineetnayar">@vineetnayar</a> has a talk in regards to his book &quot;Employees First, Customers Second&quot; mentioned at <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a> <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a>
+<br/><br/>
+<a href="https://t.co/o2DhJKROPV">https://www.youtube.com/watch?v=cCdu67s_C5E</a></p>
+
+&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/695881955313893377">February 6, 2016</a></blockquote>
+
+---
+
+## 12
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Useful quotes from <a href="https://twitter.com/hashtag/DEWT6?src=hash">#DEWT6</a>: &quot;If you don&#39;t know what you are looking for, what would help you be more confident?&quot; <a href="https://twitter.com/hashtag/dailyDEWT?src=hash">#dailyDEWT</a></p>
+&mdash; Ben Peachey (@potherca) <a href="https://twitter.com/potherca/status/696244285583269888">February 7, 2016</a></blockquote>
 
 ---
 
